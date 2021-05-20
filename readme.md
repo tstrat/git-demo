@@ -1,6 +1,4 @@
-New file
-
-Update another line here
+Removed lines
 
 # Header here
 
