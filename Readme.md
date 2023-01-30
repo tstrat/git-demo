@@ -15,5 +15,4 @@ After you set up github, this is the coding loop
 3. git commit -m "YOUR MESSAGE HERE"
 4. git push origin main
 
-
--- ONE LAST THING
+Changes can cause conflicts
