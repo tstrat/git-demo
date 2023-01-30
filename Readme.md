@@ -17,3 +17,4 @@ After you set up github, this is the coding loop
 
 
 -- ONE LAST THING
+Causing conflicts happens a lot
