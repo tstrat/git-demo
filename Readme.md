@@ -14,3 +14,6 @@ After you set up github, this is the coding loop
 2. git add file_name
 3. git commit -m "YOUR MESSAGE HERE"
 4. git push origin main
+
+
+-- ONE LAST THING
