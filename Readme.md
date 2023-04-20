@@ -19,3 +19,5 @@ Changes can cause conflicts
 Causing conflicts happens a lot
 
 Travis is explaining git merge conflicts
+
+This is a change from a pull request. Fixed by Travis
